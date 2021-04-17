@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  .main-area {
+    flex-direction: column;
+  }
+  .bar2{
+      display: none;
+  }
+  .left-side h2 {
+  font-size: 1.5rem;
+}
+nav ul{
+    justify-content:space-around;
+}
+}

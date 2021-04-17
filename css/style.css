@@ -122,6 +122,7 @@ nav ul li a {
 .main-area {
   display: flex;
 }
+
 .left-side {
   padding: 0 20px;
   width: 40%;
